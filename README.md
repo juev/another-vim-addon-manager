@@ -52,7 +52,7 @@ If necessary, you can add the necessary options at the end of the file `vimrc`.
 
 Для установки достатоно клонировать данный репозиторий в директорию, где должны располагаться файлы конфигурации VIM, обычно это директория `~/.vim`:
 
-    $ git clone https://github.com/Juev/aVAM.git ~/.vim
+    $ git clone https://github.com/Juev/another-vim-addon-manager.git ~/.vim
 
 После чего достаточно перейти в указанную директорию и выполнить команду:
 
