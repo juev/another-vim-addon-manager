@@ -6,7 +6,7 @@
 
 The installation process to clone this repository to the directory where the files should be located configuration VIM, usually the directory `~/.vim`:
 
-    $ git clone https://github.com/Juev/aVAM.git ~/.vim
+    $ git clone https://github.com/Juev/another-vim-addon-manager.git ~/.vim
 
 After that, just go to the directory and run the command:
 
